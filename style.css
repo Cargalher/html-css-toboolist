@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
 }
+/* header*/
 
 header{
 height: 100px;
@@ -20,8 +21,13 @@ background-color: red;
     display: inline-block;
     font-weight: 900;
     text-align: center;
+   
     
 }
+/*header*/
+
+
+/*body*/
 body{
     background-color: blue;
     margin: auto;
@@ -46,4 +52,12 @@ body{
     margin-left: 100px;
     margin-right: 100px;
 }
+.top-bar{
+   
 }
+
+
+
+
+
+/*body*/
