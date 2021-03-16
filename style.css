@@ -37,5 +37,13 @@ body{
     margin-right: 100px;
 }
 .main-bar{
-    
+    display: block;
+    padding: 8px;
+    background-color:yellow;
+    width: auto;
+    height: 700px;
+    margin-top: 3px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 }
