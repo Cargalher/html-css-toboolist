@@ -105,8 +105,6 @@ margin-left: 20px;
     margin-top: 20px;
     margin-left: 30px;
     font-size: 25px;
-    margin-bottom: 40px;
-    padding-bottom: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     line-height: 40px;
@@ -116,52 +114,58 @@ margin-left: 20px;
 
 /*colorful boxes*/
 .editorial{
+   
     border: 1px solid skyblue;
-    border-radius: 20%;
-    font-size: 20px;
+    border-radius: 20px;
+    font-size: x-small;
     background-color: skyblue;
     color: white;
     text-align: center;
+    padding: 5px;
 }
 .Q1-goals{
     border: 1px solid purple;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: x-small;
     background-color: purple;
     color: white;
     text-align: center;
+    padding: 5px;
 }
 .Recruiting{
-    border: 1px solid aquamarine;
+    border: 1px solid rgb(135, 233, 187);
     border-radius: 20px;
-    font-size: 20px;
-    background-color: aquamarine;
+    font-size: x-small;
+    background-color: rgb(135, 233, 187);
     color: white;
     text-align: center;
-   
+    padding: 5px;
 }
 .Mobile{
     border: 1px solid orange;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: x-small;
     background-color: orange;
     color: white;
     text-align: center;
+    padding: 5px;
 }
 .Website{
     border: 1px solid fuchsia;
     border-radius: 20px;
-    font-size: 20px;
-    background-color:fuchsia;
+    font-size: x-small;
+    background-color: fuchsia;
     color: white;
     text-align: center;
+    padding: 5px;
 }
 .Sales{
-    border: 1px solid olivedrab;
+    border: 1px solid rgb(196, 223, 174);
     border-radius: 20px;
-    font-size: 20px;
-    background-color: olivedrab;
+    font-size: x-small;
+    background-color: rgb(196, 223, 174);
     color: white;
     text-align: center;
+    padding: 5px;
 }
 /*colorful boxes*/
