@@ -3,9 +3,10 @@
   margin: 0;
   padding: 0;
 }
+
 header{
 height: 100px;
-background-color: white;
+background-color: red;
 
 }
 .logo{
@@ -19,5 +20,22 @@ background-color: white;
     display: inline-block;
     font-weight: 900;
     text-align: center;
+    
+}
+body{
+    background-color: blue;
+    margin: auto;
+}
+.top-bar{
+    display: block;
+    padding: 8px;
+    background-color:yellow;
+    width: auto;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.main-bar{
     
 }
