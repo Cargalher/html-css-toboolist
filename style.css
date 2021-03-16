@@ -38,6 +38,10 @@ main{
     width: 80%;
     margin: 0 auto;
 }
+/*body*/
+
+
+/*Top bar*/
 .top-bar{
     display: block;
     padding: 8px;
@@ -75,7 +79,37 @@ margin-left: 20px;
     margin-left: 5px;
 }
 
+/*Top bar*/
 
+/*Main Information*/
 
-
-/*body*/
+#icon{
+    background-color:white;
+    border:1px solid green;
+    color: green;
+    border-radius: 100%;
+}
+#icon-red{
+    background-color:white;
+    border:1px solid red;
+    color: red;
+    border-radius: 100%;
+}
+.New-task{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.editorial{
+    border: 1px solid skyblue;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+}
+.Today{
+  
+    margin-left: 30px;
+    font-size: 25px;
+}
