@@ -108,6 +108,30 @@ margin-left: 20px;
     color: white;
     text-align: center;
 }
+.Q1-goals{
+    border: 1px solid violet;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: violet;
+    color: white;
+    text-align: center;
+}
+.Recruiting{
+    border: 1px solid aquamarine;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+}
+.Mobile{
+    border: 1px solid orange;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+}
 .Today{
   
     margin-left: 30px;
