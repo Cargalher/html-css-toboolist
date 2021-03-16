@@ -4,7 +4,6 @@
   padding: 0;
 }
 /* header*/
-
 header{
 height: 100px;
 background-color:white;
@@ -29,6 +28,7 @@ padding: 25px 10px;
 /*header*/
 
 
+
 /*body*/
 body{
     background-color: whitesmoke;
@@ -39,6 +39,7 @@ main{
     margin: 0 auto;
 }
 /*body*/
+
 
 
 /*Top bar*/
@@ -81,7 +82,9 @@ margin-left: 20px;
 
 /*Top bar*/
 
-/*Main Information*/
+
+
+/*Check and cancel Icons*/
 
 #icon{
     background-color:white;
@@ -95,11 +98,27 @@ margin-left: 20px;
     color: red;
     border-radius: 100%;
 }
+
+/*Check and cancel Icons*/
+
+/*Main titles*/
 .New-task{
     margin-top: 20px;
     margin-left: 30px;
     font-size: 25px;
 }
+.Today{
+  
+    margin-left: 30px;
+    font-size: 25px;
+}
+.Upcoming{
+
+}
+/*Main Titles*/
+
+
+/*colorful boxes*/
 .editorial{
     border: 1px solid skyblue;
     border-radius: 20px;
@@ -148,8 +167,4 @@ margin-left: 20px;
     color: white;
     text-align: center;
 }
-.Today{
-  
-    margin-left: 30px;
-    font-size: 25px;
-}
+/*colorful boxes*/
