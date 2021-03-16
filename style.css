@@ -109,10 +109,10 @@ margin-left: 20px;
     text-align: center;
 }
 .Q1-goals{
-    border: 1px solid violet;
+    border: 1px solid purple;
     border-radius: 20px;
     font-size: 20px;
-    background-color: violet;
+    background-color: purple;
     color: white;
     text-align: center;
 }
@@ -129,6 +129,22 @@ margin-left: 20px;
     border-radius: 20px;
     font-size: 20px;
     background-color: orange;
+    color: white;
+    text-align: center;
+}
+.Website{
+    border: 1px solid fuchsia;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color:fuchsia;
+    color: white;
+    text-align: center;
+}
+.Sales{
+    border: 1px solid olivedrab;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: olivedrab;
     color: white;
     text-align: center;
 }
