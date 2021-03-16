@@ -55,7 +55,21 @@ body{
 .top-bar{
    
 }
+#Add-task{
+background-color:skyblue;
+border: none;
+color: white;
+padding: 10px 15px;
+margin-left: 20px;
+}
 
+#Add-section{
+    display: inline-block
+    background-color:skyblue;
+    border: none;
+    color: lightgrey;
+    padding: 10px 15px;
+}
 
 
 
