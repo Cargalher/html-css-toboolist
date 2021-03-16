@@ -52,9 +52,10 @@ main{
     margin-top: 50px;
    
 }
+
 .main-info{
     display: block;
-    padding: 8px;
+    padding: 20px;
     background-color:white;
     width: auto;
     height: 700px;
@@ -79,13 +80,11 @@ margin-left: 20px;
     padding: 10px 15px;
     margin-left: 5px;
 }
-
 /*Top bar*/
 
 
 
 /*Check and cancel Icons*/
-
 #icon{
     background-color:white;
     border:1px solid green;
@@ -98,22 +97,14 @@ margin-left: 20px;
     color: red;
     border-radius: 100%;
 }
-
 /*Check and cancel Icons*/
 
 /*Main titles*/
-.New-task{
+.list-block{
     margin-top: 20px;
     margin-left: 30px;
     font-size: 25px;
-}
-.Today{
-  
-    margin-left: 30px;
-    font-size: 25px;
-}
-.Upcoming{
-
+    margin-bottom: 40px;
 }
 /*Main Titles*/
 
@@ -121,7 +112,7 @@ margin-left: 20px;
 /*colorful boxes*/
 .editorial{
     border: 1px solid skyblue;
-    border-radius: 20px;
+    border-radius: 20%;
     font-size: 20px;
     background-color: skyblue;
     color: white;
@@ -142,6 +133,7 @@ margin-left: 20px;
     background-color: aquamarine;
     color: white;
     text-align: center;
+   
 }
 .Mobile{
     border: 1px solid orange;
